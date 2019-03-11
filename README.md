@@ -13,3 +13,5 @@
 # On the Flights+Hotels tab under 'BOOK FLIGHT', I have added a form where you can save flight booking to the Database.
 
 # Please used 'ABSA Assessment DB.bak' to restore the Database.
+
+# Please also check the connection string
